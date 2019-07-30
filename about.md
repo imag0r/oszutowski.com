@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-[Public key]({{ site.url }}/download/pubkey.asc)
+[Public key](/download/pubkey.asc)
  
